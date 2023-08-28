@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en"> 
 <head>
-    <title>Your name's Resume</title>
+    <title><?php echo "Cody King's Resume" ?></title>
     
     <!-- Meta -->
     <meta charset="utf-8">
