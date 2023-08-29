@@ -188,9 +188,9 @@
 						    <h2 class="resume-section-title text-uppercase font-weight-bold pb-3 mb-3">Interests</h2>
 						    <div class="resume-section-content">
 							    <ul class="list-unstyled">
-								    <li class="mb-1">Climbing</li>
-								    <li class="mb-1">Snowboarding</li>
-								    <li class="mb-1">Cooking</li>
+								    <li class="mb-1"><?php echo "Gaming" ?></li>
+								    <li class="mb-1"><?php echo "Running" ?></li>
+								    <li class="mb-1"><?php echo "Movies" ?></li>
 							    </ul>
 						    </div>
 					    </section><!--//interests-section-->
