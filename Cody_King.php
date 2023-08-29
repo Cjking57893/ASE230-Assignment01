@@ -114,51 +114,37 @@
 						        <div class="resume-skill-item">
 							        <ul class="list-unstyled mb-4">
 								        <li class="mb-2">
-								            <div class="resume-skill-name">Angular</div>
+								            <div class="resume-skill-name"><?php echo "C#" ?></div>
 									        <div class="progress resume-progress">
 											    <div class="progress-bar theme-progress-bar-dark" role="progressbar" style="width: 98%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
 											</div>
 								        </li>
 								        <li class="mb-2">
-								            <div class="resume-skill-name">React</div>
+								            <div class="resume-skill-name"><?php echo "Java" ?></div>
 									        <div class="progress resume-progress">
 											    <div class="progress-bar theme-progress-bar-dark" role="progressbar" style="width: 94%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
 											</div>
 								        </li>
 								        <li class="mb-2">
-								            <div class="resume-skill-name">JavaScript</div>
+								            <div class="resume-skill-name"><?php echo "JavaScript" ?></div>
 									        <div class="progress resume-progress">
 											    <div class="progress-bar theme-progress-bar-dark" role="progressbar" style="width: 96%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
 											</div>
 								        </li>
 								        
 								        <li class="mb-2">
-								            <div class="resume-skill-name">Node.js</div>
+								            <div class="resume-skill-name"><?php echo "Node.js" ?></div>
 									        <div class="progress resume-progress">
 											    <div class="progress-bar theme-progress-bar-dark" role="progressbar" style="width: 92%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
 											</div>
 								        </li>
 								        <li class="mb-2">
-								            <div class="resume-skill-name">HTML/CSS/SASS/LESS</div>
+								            <div class="resume-skill-name"><?php echo "HTML/CSS" ?></div>
 									        <div class="progress resume-progress">
 											    <div class="progress-bar theme-progress-bar-dark" role="progressbar" style="width: 96%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
 											</div>
 								        </li>
 							        </ul>
-						        </div><!--//resume-skill-item-->
-						        <div class="resume-skill-item">
-						            <h4 class="resume-skills-cat font-weight-bold">Others</h4>
-						            <ul class="list-inline">
-							            <li class="list-inline-item"><span class="badge badge-light">DevOps</span></li>
-							            <li class="list-inline-item"><span class="badge badge-light">Code Review</span></li>
-							            <li class="list-inline-item"><span class="badge badge-light">Git</span></li>
-							            <li class="list-inline-item"><span class="badge badge-light">Unit Testing</span></li>
-							            <li class="list-inline-item"><span class="badge badge-light">Wireframing</span></li>
-							            <li class="list-inline-item"><span class="badge badge-light">Sketch</span></li>
-							            <li class="list-inline-item"><span class="badge badge-light">Balsamiq</span></li>
-							            <li class="list-inline-item"><span class="badge badge-light">WordPress</span></li>
-							            <li class="list-inline-item"><span class="badge badge-light">Shopify</span></li>
-						            </ul>
 						        </div><!--//resume-skill-item-->
 						    </div><!--resume-section-content-->
 					    </section><!--//skills-section-->
@@ -167,14 +153,14 @@
 						    <div class="resume-section-content">
 							    <ul class="list-unstyled">
 								    <li class="mb-2">
-								        <div class="resume-degree font-weight-bold">MSc in Computer Science</div>
-								        <div class="resume-degree-org">University College London</div>
-								        <div class="resume-degree-time">2013 - 2014</div>
+								        <div class="resume-degree font-weight-bold"><?php echo "BSc Applied Software Engineering" ?></div>
+								        <div class="resume-degree-org"><?php echo "Northern Kentucky University" ?></div>
+								        <div class="resume-degree-time"><?php echo "2023 - 2025" ?></div>
 								    </li>
 								    <li>
-								        <div class="resume-degree font-weight-bold">BSc Maths and Physics</div>
-								        <div class="resume-degree-org">Imperial College London</div>
-								        <div class="resume-degree-time">2010 - 2013</div>
+								        <div class="resume-degree font-weight-bold"><?php echo "ASc Information Technology" ?></div>
+								        <div class="resume-degree-org"><?php echo "Maysville Community and Technical College" ?></div>
+								        <div class="resume-degree-time"><?php echo "2021 - 2022" ?></div>
 								    </li>
 							    </ul>
 						    </div>
