@@ -202,35 +202,13 @@
 					<div class="row mt-4">
 						<div class="col-md-4">
 							<div class="card">
-								<img src="path-to-project-image1.jpg" alt="Project 1" class="card-img-top">
 								<div class="card-body">
-									<h5 class="card-title">Project 1</h5>
-									<p class="card-text">Brief description of Project 1.</p>
+									<h5 class="card-title"><?php echo "Midwest Music Site" ?></h5>
+									<p class="card-text"><?php echo "A website to post reviews of concerts." ?></p>
 									<a href="btn btn-outline-primary" href="#">Go to link</a>
 								</div>
 							</div>
 						</div>
-						<div class="col-md-4">
-							<div class="card">
-								<img src="path-to-project-image2.jpg" alt="Project 2" class="card-img-top">
-								<div class="card-body">
-									<h5 class="card-title">Project 2</h5>
-									<p class="card-text">Brief description of Project 2.</p>
-									<a href="btn btn-outline-primary" href="#">Go to link</a>
-								</div>
-							</div>
-						</div>
-						<div class="col-md-4">
-							<div class="card">
-								<img src="path-to-project-image3.jpg" alt="Project 3" class="card-img-top">
-								<div class="card-body">
-									<h5 class="card-title">Project 3</h5>
-									<p class="card-text">Brief description of Project 3.</p>
-									<a href="btn btn-outline-primary" href="#">Go to link</a>
-								</div>
-							</div>
-						</div>
-					</div>
 				</section><!--//projects-section-->
 		    </div><!--//resume-body-->
 		    
